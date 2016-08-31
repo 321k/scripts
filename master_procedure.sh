@@ -1,1 +1,1 @@
-echo "$(timestamp): test" >> log.txt
+echo "$(date): test" >> log.txt
