@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "$(date): test" >> log.txt
+echo "$(date): test" >> ~/scripts/log.txt
